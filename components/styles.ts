@@ -29,7 +29,6 @@ export const styles = StyleSheet.create({
     width: "100%",
     backgroundColor: "white",
     alignItems: "center",
-    paddingHorizontal: 10,
     justifyContent: "space-around",
   },
   listItemInputTask: {
